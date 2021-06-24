@@ -105,6 +105,7 @@ is maintained by [Parity Technologies](https://www.parity.io/).
 - [FRAME](https://substrate.dev/docs/en/knowledgebase/runtime/frame) - An idiomatic system for
   building Substrate runtimes.
 - [ink!](https://github.com/paritytech/ink) - Smart contract language for Substrate chains.
+- [Ask!](https://github.com/patractlabs/ask) - WASM smart contracts for Substrate in AssemblyScript
 - [Cumulus](https://github.com/paritytech/cumulus) - Simplified Polkadot-compatible parachains.
 - [Bridges](https://github.com/paritytech/parity-bridges-common) - A collection of tools for
   cross-chain communication.
